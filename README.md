@@ -57,15 +57,6 @@ Global-Ecommerce-Sales-PowerBI/
 
 ---
 
-📸 Dashboard Preview
-
-> Dashboard Screenshot
-
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
-
----
 
 📊 Key Performance Indicators (KPIs)
 
